@@ -1,0 +1,4 @@
+I haven't managed to crack part two yet because I'm flailing about with subsetting arrays in awk.\
+I think the piece I'm missing still is when encountering a pair of values that could require
+damping, I've only been skipping the first value in the pair and I think sometimes I need to 
+skip the second value instead.
